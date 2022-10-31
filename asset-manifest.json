@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gasparkritsch.github.io/ColorGenerator/static/css/main.790f6fdb.css",
-    "main.js": "/gasparkritsch.github.io/ColorGenerator/static/js/main.02c7d5b7.js",
-    "index.html": "/gasparkritsch.github.io/ColorGenerator/index.html",
-    "main.790f6fdb.css.map": "/gasparkritsch.github.io/ColorGenerator/static/css/main.790f6fdb.css.map",
-    "main.02c7d5b7.js.map": "/gasparkritsch.github.io/ColorGenerator/static/js/main.02c7d5b7.js.map"
+    "main.css": "/ColorGenerator/static/css/main.790f6fdb.css",
+    "main.js": "/ColorGenerator/static/js/main.02c7d5b7.js",
+    "index.html": "/ColorGenerator/index.html",
+    "main.790f6fdb.css.map": "/ColorGenerator/static/css/main.790f6fdb.css.map",
+    "main.02c7d5b7.js.map": "/ColorGenerator/static/js/main.02c7d5b7.js.map"
   },
   "entrypoints": [
     "static/css/main.790f6fdb.css",
