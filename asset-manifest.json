@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GasparKritsch.github.io/ColorGenerator/static/css/main.790f6fdb.css",
+    "main.js": "/GasparKritsch.github.io/ColorGenerator/static/js/main.02c7d5b7.js",
+    "index.html": "/GasparKritsch.github.io/ColorGenerator/index.html",
+    "main.790f6fdb.css.map": "/GasparKritsch.github.io/ColorGenerator/static/css/main.790f6fdb.css.map",
+    "main.02c7d5b7.js.map": "/GasparKritsch.github.io/ColorGenerator/static/js/main.02c7d5b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.790f6fdb.css",
+    "static/js/main.02c7d5b7.js"
+  ]
+}
